@@ -1,0 +1,4 @@
+Self-hosted fonts (latin subset), both licensed under the SIL Open Font License 1.1:
+- Fraunces (normal + italic, variable) - https://github.com/undercasetype/Fraunces
+- Figtree (variable)                   - https://github.com/erikdkennedy/figtree
+Self-hosting means visitors' browsers never contact a third-party font server.
